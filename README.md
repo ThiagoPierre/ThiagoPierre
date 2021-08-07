@@ -1,7 +1,7 @@
 #  Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  I'm Thiago, aka colxa
  
- ##I'm a student developer from Brazil, currently working for Pitang Agile IT. As an intern, i'm currently working on automating tests using SpecFlow and Selenium, but my real 
+ I'm a student developer from Brazil, currently working for Pitang Agile IT. As an intern, i'm currently working on automating tests using SpecFlow and Selenium, but my real 
  passion is on back-end and front-end developing. You can find me on [![LinkedIn][1.2]][1].
  
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
