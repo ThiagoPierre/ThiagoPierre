@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ticketshare, a ticket-selling startup<br>🌱 I'm currently learning React Native, so i can start my bodybuilding app.<br>💬  Ask me about anything related to Javascript/Typescript or Angular/React/Express<br>👨‍💻  Read more about my projects at thiagopierre.dev<br>⚡ Fun fact: I really like bodybuilding and games!
+🔭 I’m currently working on Ticketshare, a ticket-selling startup<br>🌱 I'm currently learning React Native, so i can start my bodybuilding app.<br>💬  Ask me about anything related to Javascript/Typescript or Angular/React/Express<br>👨‍💻  Read more about my projects at https://thiagopierre.dev<br>⚡ Fun fact: I really like bodybuilding and games!
 
 
 ## 🌐 Socials:
