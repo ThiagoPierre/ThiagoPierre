@@ -1,7 +1,7 @@
 #  Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- I'm Thiago, aka colxa
+ I'm Thiago
  
- I'm a student developer from Brazil, currently working for Ticketshare.You can find me on [![LinkedIn][1.2]][1].
+ I'm a software developer from Brazil, currently working for Ticketshare.You can find me on [![LinkedIn][1.2]][1].
  
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
